@@ -6,7 +6,7 @@
             <strong><h1>Quien soy?</h1></strong>
             Mi nombre es Yonathan Ponce y soy un desarrollador Full Stack. Soy un programador que esta en continuo aprendizaje y disfruto usar mis habilidades para contribuir a proyectos tecnológicos. Me caracterizo por ser una persona disciplinada, responsable y aplicada. Soy un hombre apasionado por la musica, los viajes y la comida tipica de mi pais Colombia. Me gustan los retos y el trabajo en equipo
         </p>
-        <strong><h1>Tecnologias que utilzo:</h1></strong>
+        <strong><h1>Tecnologias que utilizo:</h1></strong>
         <ul>
             <li>HTML5</li>
             <li>CSS3</li>
