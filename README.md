@@ -1,4 +1,4 @@
-<div>
+<div style="font-family:'Courier New', Courier, monospace;">
     <img src="./img_github.png" />
     <div align=left>
         <br>
