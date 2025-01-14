@@ -32,7 +32,7 @@
     </div>
     <div>
         <a href="https://www.linkedin.com/in/yonathan-ponce/"><img src="https://img.shields.io/badge/Linkedin-0077b5?style=flat&logo=linkedin" alt="LinkedIn" /></a>
-        <a href="https://portafolioponce-yonathans-projects-5c89baad.vercel.app/"><img src="https://img.shields.io/badge/portafolio-8A2BE2" alt="Portafolio" /></a>
-        <a href=" https://lc.cx/3lrpkW"><img src="https://img.shields.io/badge/Hoja%de%vida-16B144" alt="cv" /></a>
+        <a href="https://portafolioponce-yonathans-projects-5c89baad.vercel.app/"><img src="https://img.shields.io/badge/Portafolio-8A2BE2" alt="Portafolio" /></a>
+        <a href=" https://lc.cx/3lrpkW"><img src="https://img.shields.io/badge/Hoja%20de%20vida-16B144" alt="cv" /></a>
     </div>
 </div>
